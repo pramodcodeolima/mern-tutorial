@@ -1,0 +1,18 @@
+.nav{
+    height: 100px;
+    width: 100%;
+    background-color: #03c75670;
+}
+
+.header{
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+}
+
+.btn{
+    height: 35px;
+    width: 82px;
+    margin: 32px;
+    background-color: #8c98c257;
+}
